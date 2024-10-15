@@ -12,4 +12,5 @@ In this repo, you can find:
 If you wish to run this internally, you will need: 
   - Python: most up-to-date version
   - nltk: both "NLTK" and "NLTK Data" (More info: https://www.nltk.org/api/nltk.html#)  
+  - Gensim: https://radimrehurek.com/gensim/index.html 
 Depending on the libraries you have installed on your computer, additional setup may be required.
